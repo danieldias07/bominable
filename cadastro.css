@@ -1,0 +1,18 @@
+body{
+    background-color: #EFEFF6;
+}
+#lua{
+    display: flex;
+    justify-content: flex-start;
+}
+#estrela{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 641px;
+}
+#caderno{
+    display: flex;
+    justify-content: center;
+    margin-left: 65px;
+    margin-top: -675px;
+}
